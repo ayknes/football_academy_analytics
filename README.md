@@ -1,8 +1,8 @@
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg) Pandas
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
 
-![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png) Tableau
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png)
 
 # Football Analytics
 
