@@ -1,3 +1,9 @@
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg) Pandas
+
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png) Tableau
+
 # Football Analytics
 
 ## Summary:
